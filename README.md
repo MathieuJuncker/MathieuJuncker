@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MathieuJuncker
-- 👀 I’m interested in artificial intelligence.
+- 👀 I’m interested in artificial intelligence and computer vision.
 
 <!---
 - 🌱 I’m currently learning .
